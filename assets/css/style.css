@@ -1053,7 +1053,7 @@ section .container {
   background: rgba(255, 255, 255, 0.08);
   border: 0;
   transition: 0.3s;
-  color: #fff;
+  color: #000;
 }
 
 .contact .php-email-form input:focus,
